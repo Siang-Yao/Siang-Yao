@@ -24,7 +24,7 @@ This single-page portfolio website showcases the work and skills of Siang-Yao Li
 - `images/`: Directory containing all the images used in the website.
 
 ## License
-[MIT](LICENSE.md) - Feel free to use and modify this project as per the MIT license.
+Feel free to use and modify this project.
 
 ## Contact
 Please reach out to Siang-Yao Li (mailto:pattyli0327@gmail.com).
